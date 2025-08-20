@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
   "url": "https://launcher-updater.vercel.app/MC-Launcher-1.2.0.jar",
-  "sha256": "68a57b4afb08520f70b9bce19436c0be06b74dfc765e511bedf606ec8629c9da",
+  "sha256": "4cd973368b9e634a747ec965200d3b09a9fcb9ca2f1de4dd16647dc9d04135d7",
   "notes": "• New updater UI\n• Bug fixes"
 }
